@@ -1,2 +1,2 @@
 # riz
-リズ
+https://crank-shaft.github.io/riz/
